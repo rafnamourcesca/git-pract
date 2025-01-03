@@ -1,2 +1,2 @@
 console.log('onfig.js');
-console.log('version12');
+console.log('version13');
